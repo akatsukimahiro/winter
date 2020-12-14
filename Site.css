@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    font-family: 'Caveat', cursive;
+    
+}
+header{
+    height: 50px;
+    background-color: white;
+    
+}
+
+.header-name{
+   font-size: 50px;
+   padding:0 20px;
+   float: left;
+   text-decoration: none;
+   color: black;
+}
+.header-right{
+    padding-top: 5px;
+    padding-left:1300px;
+}
+.header-right a{
+padding:0 20px;
+text-decoration: none;
+color: black;
+font-size: 30px;
+
+}
+.header-right a:hover{
+    opacity: 0.7;
+}
+.top-wrapper{
+     height: 887px;
+     background-image: url(https://images.unsplash.com/photo-1515411151407-107ae8bab7e4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+     background-size:cover;
+    text-align: right;
+   
+}
+.name-container{
+    color: white;
+    font-size: 30px;
+    padding:300px 0 0 ;
+    margin-right: 50px;
+    
+    
+   
+    
+   
+    
+   
+}
