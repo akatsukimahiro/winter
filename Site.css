@@ -10,9 +10,9 @@ header{
 }
 
 .header-name{
-    font-size: 50px;
-    padding:0 20px;
-    float: left;
+   font-size: 50px;
+   padding:0 20px;
+   float: left;
 }
 .header-list{
     padding-top: 5px;
